@@ -1,4 +1,4 @@
-# Improvised-Spam-Classifier
+# Improved-Spam-Classifier-AdaBoost
 ## About
 
 * A Spam Classfier was built using Naive Bayes to classify spam in this [dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection). 
